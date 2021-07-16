@@ -2,8 +2,6 @@
 
 ## A To-do List App
 
-#
-
 Add custom projects and tasks with their own descriptions, due dates, and priority levels. Filter through your tasks via project subfolders, or the already created All Tasks, Today, and This Week subfolders which automatically contain your tasks when added.
 
 Custom subfolders and tasks are stored locally so user inputs are not lost when closing or refreshing browser
