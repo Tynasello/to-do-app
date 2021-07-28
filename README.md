@@ -57,6 +57,7 @@ npm run build
 ## Built With
 
 - Vanilla JavaScript
+- Webpack
 - HTML5
 - CSS3
 
