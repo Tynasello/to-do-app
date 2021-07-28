@@ -32,7 +32,12 @@ To Work on this project:
 Clone project
 
 ```
-git clone https://github.com/Tynasello/js-practice/tree/master/to-do-app
+git clone https://github.com/Tynasello/to-do-app
+```
+Change into project directory:
+
+```bash
+cd to-do-app
 ```
 
 Install required dependencies
