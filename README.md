@@ -29,7 +29,7 @@ The side panel contains three static subfolders: the All Tasks, Today, and This 
 
 To Work on this project:
 
-Clone this project
+Clone project
 
 ```
 git clone https://github.com/Tynasello/js-practice/tree/master/to-do-app
