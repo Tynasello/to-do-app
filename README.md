@@ -31,13 +31,18 @@ To Work on this project:
 
 Clone project
 
+```bash
+git clone https://github.com/Tynasello/to-do-app
 ```
-git clone https://github.com/Tynasello/js-practice/tree/master/to-do-app
+Change into project directory:
+
+```bash
+cd to-do-app
 ```
 
 Install required dependencies
 
-```
+```bash
 npm install
 ```
 
@@ -45,13 +50,14 @@ To edit JavaScript files work in src/ folder
 
 To update and create distribution files run
 
-```
+```bash
 npm run build
 ```
 
 ## Built With
 
 - Vanilla JavaScript
+- Webpack
 - HTML5
 - CSS3
 
