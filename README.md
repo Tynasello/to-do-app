@@ -34,6 +34,7 @@ Clone project
 ```bash
 git clone https://github.com/Tynasello/to-do-app
 ```
+
 Change into project directory:
 
 ```bash
