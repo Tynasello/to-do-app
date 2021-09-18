@@ -2,24 +2,24 @@
 
 ## A To-do List App
 
-Add custom tasks with their own descriptions, due dates, and priority levels. Filter through your tasks via project subfolders, as well as the All Tasks, Today, and This Week subfolders.
+Add custom tasks with descriptions, due dates, and priority levels. Filter through your tasks via project subfolders, as well as the All Tasks, Today, and This Week subfolders.
 
-Subfolders and their tasks are stored locally so user data is not lost when closing or refreshing browser.
+Subfolders and their tasks are stored locally so user data is not lost when closing or refreshing the browser.
 
 ![demo](dist/to-do-demo.gif)
 
-## Feautures
+## Features
 
 ### Main Panel
 
 The main panel shows all tasks of the currently selected subfolder.
 To delete the current subfolder and subsequently all tasks in it, click the delete button (trash can icon) in the header of the page.
 
-To add your own tasks to the current subfolder you are working in, click the plus button in the navbar of the page. Doing so will trigger a pop-up window for you to enter task properties.
+To add your tasks to the current subfolder you are working in, click the plus button in the navbar of the page. Doing so will trigger a pop-up window for you to enter task properties.
 
-Each Task has a checkbox for completion, and edit button, a flag icon illustarting priority level, and a delete button. Each task has a name, description, due date, and priority level. When the task is clicked, a dropdown appears with these properties displayed.
+Each Task has a checkbox for completion, an edit button, a flag icon illustarting priority level, and a delete button. Each task has a name, description, due date, and priority level. When the task is clicked, a dropdown appears with these properties displayed.
 
-Clicking the edit button of a task causes a pop-up window to appear in which users can edit their task properties. As a task is edited, new property values will take effect for the current task in all subfolders which it exists.
+Clicking the edit button of a task causes a pop-up window to appear in which users can edit their task properties. As a task is edited, new property values will take effect for the current task in all subfolders in which it exists.
 
 ### Side Panel
 
